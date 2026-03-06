@@ -50,7 +50,7 @@ void BubbleSort()
 {
     cout << "\n===================" << endl;
     cout << "Hasil setiap pass" << endl;
-    cout << "\===================" << endl;
+    cout << "===================" << endl;
     for (int pass = 1; pass < n; pass++)
     {
         for (int j = 0; j <= n - 1 - pass; j++)
